@@ -34,13 +34,23 @@ Could be changed to state_list, and state_votes respectively. Going through the 
 
 
 
+![Final results](https://user-images.githubusercontent.com/88358771/134981889-0449ab7d-83d5-429f-9880-7e18d2c337dd.png)
 
 
 
 
 
 
-Election_Analysis (Vote count only)
+
+
+
+
+
+
+
+
+----------------------------------------------------------
+Election_Analysis (Vote count only per earlier Module)
 
 Project Synopsis
 An employee for the Colorado Board of Elections gave me a project with multiple tasks to complete the election audit of a local congressional election.
